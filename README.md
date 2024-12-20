@@ -5,8 +5,8 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on ... iOS/ Mobile Development using Swift/ SwiftUI
-- 📫 How to reach me: ... on Linkedin: https://www.linkedin.com/in/aakarsh-verma/
+- 🔭 I’m currently working on - iOS/ Mobile Development using Swift/ SwiftUI
+- 📫 Reach me on Linkedin: https://www.linkedin.com/in/aakarsh-verma/
 <!--
 - 🌱 I’m currently learning ... 
 - 👯 I’m looking to collaborate on ...
