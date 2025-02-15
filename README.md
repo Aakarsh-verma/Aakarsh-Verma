@@ -5,13 +5,15 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on - iOS/ Mobile Development using Swift/ SwiftUI
+- 🔭 I’m currently working on - iOS/ Mobile Development using Swift/ SwiftUI 
 
  ## 👔 Experience
 | Position               | Company                     | Field                         | Work Period       |
 | ---------------------- | --------------------------- | ----------------------------- | ----------------- |
-| **iOS Developer**      | **Jio Platforms Ltd**       | **iOS Mobile Apps Development** | **2022-06 — now** |
+| **iOS Developer**      | **Jio Platforms Ltd**       | **iOS Mobile Apps Development** | **2022-06 — 2025-02** |
 
-- 📫 Reach me on Linkedin: https://www.linkedin.com/in/aakarsh-verma/
+## Socials
+[![Preview](/assets/gmail.png)](aakarshvermaofficial@gmail.com) &nbsp;
+[![Preview](/assets/linkedin.png)](https://www.linkedin.com/in/aakarsh-verma/) &nbsp;
   
-📊 **this week i spent my time on:**
+
