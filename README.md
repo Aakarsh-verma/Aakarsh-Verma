@@ -15,6 +15,12 @@ Here are some ideas to get you started:
 ## 🎓 Education
 - Bachelor's Degree in Engineering @ University of Mumbai (2018 - 2022)
 
+## 🛠 Technologies I Use  
+![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
+![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
 ## Socials
 [![Preview](/assets/gmail.png)](aakarshvermaofficial@gmail.com) &nbsp;
 [![Preview](/assets/linkedin2.png)](https://www.linkedin.com/in/aakarsh-verma/) &nbsp;
