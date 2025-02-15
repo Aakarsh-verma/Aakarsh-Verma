@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 
 ## Socials
 [![Preview](/assets/gmail.png)](aakarshvermaofficial@gmail.com) &nbsp;
-[![Preview](/assets/linkedin.png)](https://www.linkedin.com/in/aakarsh-verma/) &nbsp;
+[![Preview](/assets/linkedin2.png)](https://www.linkedin.com/in/aakarsh-verma/) &nbsp;
   
 
