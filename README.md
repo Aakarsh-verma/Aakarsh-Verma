@@ -40,7 +40,7 @@ I started my journey as a iOS Developer in 2022 and have not looked back since!.
 
 ![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-## Visitor Count
+## 👀 Visitor Count
 
 ![Visitor Count](https://profile-counter.glitch.me/Aakarsh-Verma/count.svg)
 
