@@ -22,7 +22,7 @@ I started my journey as a iOS Developer in 2022 and have not looked back since!.
 - 12th grade @ State Board of Telangana (2018)
 - 10th grade in CBSE @ Montfort Higher Secondary School (2016)
 
-## 🎓 Publication
+## 📋 Publication
  - [Violence detection for surveillance systems using lightweight CNN models](https://ieeexplore.ieee.org/document/9800155), 
    Institute of Engineering and Technology · Jun 20, 2022
 
