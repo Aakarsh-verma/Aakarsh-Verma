@@ -5,7 +5,7 @@
 🔭 I’m a iOS Mobile Developer using mainly Swift/ SwiftUI and React Native.
 I started my journey as a iOS Developer in 2022 and have not looked back since!. I also have experience in ML/AI using python.
 
-## ⚙️ Latest Project: [SwiftUICarousels](https://github.com/Aakarsh-verma/SwiftUICarousels)
+## ⚙️ Latest Project: [SwiftUILayouts](https://github.com/Aakarsh-verma/SwiftUILayouts)
 
 ## 💻 Tech Stack
 
