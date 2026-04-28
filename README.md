@@ -15,7 +15,7 @@ I started my journey as a iOS Developer in 2022 and have not looked back since!.
 
 | Position               | Company                     | Field                         | Work Period       |
 | ---------------------- | --------------------------- | ----------------------------- | ----------------- |
-| **SSE iOS**            | **Swiggy Ltd**              | **iOS Mobile Apps Development** | **2025-02 — Present** |
+| **SDE I iOS**            | **Swiggy Ltd**              | **iOS Mobile Apps Development** | **2025-02 — Present** |
 | **iOS Developer**      | **Jio Platforms Ltd**       | **iOS Mobile Apps Development** | **2022-06 — 2025-02** |
 
 ## 🎓 Education
